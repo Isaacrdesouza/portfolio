@@ -1,0 +1,13 @@
+Coloque aqui as capturas de tela do Sistema de Gerenciamento de Inspeções.
+
+Sugestão de nomes:
+  web-painel.png      -> interface web (proporção ~16:10)
+  mobile-inspecao.png -> app mobile (proporção ~9:19)
+  captura-1.png ...   -> capturas extras para a galeria
+
+Depois, informe os caminhos em src/data/profile.js, por exemplo:
+  web:    { src: '/projects/inspecoes/web-painel.png', ... }
+  mobile: { src: '/projects/inspecoes/mobile-inspecao.png', ... }
+
+Dica: exporte em .webp ou .png otimizado (até ~300 KB por imagem) e
+remova dados reais de clientes antes de publicar.
